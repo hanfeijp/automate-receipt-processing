@@ -7,7 +7,7 @@ Automatically extract information of interest from an imaged receipt, such as re
 # Accompanying Blogs:
 - @eero please add title and link
 - [Automating Receipt Processing](todo)
-- [Building an Infrastructure to support Receipt Processing](http://blog.codemoggy.com/index.php/2017/06/20/using-azure-functions-to-enable-ocr-processing-of-images/)
+- [Building an Infrastructure on Azure to support Receipt Processing using OCR](http://blog.codemoggy.com/index.php/2017/06/20/using-azure-functions-to-enable-ocr-processing-of-images/)
 
 # work in progress ...
 
