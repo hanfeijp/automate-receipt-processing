@@ -5,9 +5,9 @@ Automatically extract information of interest from an imaged receipt, such as re
 - **ML** contains code snippets of modelling in Azure ML Studio.
 
 # Accompanying Blogs:
-- @codemoggy please add title and link
 - @eero please add title and link
 - [Automating Receipt Processing](todo)
+- [Building an Infrastructure to support Receipt Processing](http://blog.codemoggy.com/index.php/2017/06/20/using-azure-functions-to-enable-ocr-processing-of-images/)
 
 # work in progress ...
 
