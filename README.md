@@ -9,3 +9,4 @@ Automatically extract information of interest from an imaged receipt, such as re
 - @eero please add title and link
 - [Automating Receipt Processing](https://ryubidragonfire.github.io/blogs/2017/06/06/Automating-Receipt-Processing.html)
 
+
